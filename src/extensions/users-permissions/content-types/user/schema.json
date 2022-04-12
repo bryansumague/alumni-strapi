@@ -70,9 +70,6 @@
       "allowedTypes": [
         "images"
       ]
-    },
-    "batchYear": {
-      "type": "string"
     }
   }
 }
